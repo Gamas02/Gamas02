@@ -1,48 +1,76 @@
-**ÚLTIMA ATUALIZAÇÃO: AGORA**  
+**🕓 ÚLTIMA ATUALIZAÇÃO:** AGORA  
 
-# Olá, sou o Matheus! 👋
+# 👋 Olá, sou o Matheus Henrique Gamalier
 
 ---
 
-## 🌱 Sobre Mim
+## 💡 Sobre Mim
 
-Sou um desenvolvedor de software focado em criar soluções modernas e escaláveis. Trabalho principalmente com **Frontend** e **Backend**, mas também me aventuro em **Machine Learning**.
+Sou um **Desenvolvedor de Software** apaixonado por transformar ideias em soluções reais.  
+Atuo principalmente em **Frontend**, **Backend** e **Java**, explorando também **Python** para automações, análise de dados e **Machine Learning**.  
 
-**🛠️ Tecnologias que uso com frequência:**
+Tenho foco em escrever **código limpo, eficiente e escalável**, sempre buscando boas práticas, arquitetura sólida e aprendizado contínuo.
 
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Meus Projetos
+## 🚀 Projetos em Destaque
 
-Aqui estão alguns dos meus projetos mais recentes:
+### 💼 [Projeto Planilhas](https://github.com/Gamas02/projeto-planilhas)
+Sistema para atualização e visualização dinâmica de planilhas em CSV.  
+> Tecnologias: **JavaScript**, **HTML**, **CSS**
 
-### 💻 [Projeto planilhas](https://github.com/Gamas02/projeto-planilhas)
-Projeto de atualização e visualização de planilhas.
+### 🎮 [Jogo da Velha 3D](https://github.com/Gamas02/jogo-da-velha-3d)
+Versão 3D interativa do clássico jogo da velha.  
+> Tecnologias: **Three.js**, **JavaScript**
 
-### 🌍 [Jogo da velha 3D](https://github.com/Gamas02/jogo-da-velha-3d)
-Jogo da velha 3D.
+### ☕ [Projeto de Aplicação em Java](#)
+Aplicação desenvolvida para estudos de **POO**, **herança**, **polimorfismo** e **coleções**.  
+> Tecnologias: **Java**, **Swing**, **MySQL**
+
+### 🧠 [Automação com Python](#)
+Scripts e projetos voltados para automação de tarefas e análise de dados.  
+> Tecnologias: **Python**, **Pandas**, **Requests**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamas02&show_icons=true&theme=radical)
+<div align="center">
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamas02&layout=compact&theme=radical)
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamas02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamas02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
----
-
-## 📬 Me encontre em:
-
-[Meu LinkedIn](https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356)
-
+</div>
 
 ---
 
-⭐ *Do arquivo de: Matheus Henrique Gamalier*
+## 📫 Contato
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Gamalier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356)
+[![GitHub](https://img.shields.io/badge/GitHub-Gamas02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamas02)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgamalier@gmail.com)
+
+</div>
+
+---
+
+⭐ *Feito com dedicação por **Matheus Henrique Gamalier***
