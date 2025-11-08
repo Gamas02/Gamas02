@@ -59,7 +59,7 @@ Versão **tridimensional** e interativa do clássico jogo da velha, desenvolvida
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Gamalier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356)
 [![GitHub](https://img.shields.io/badge/GitHub-Gamas02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamas02)
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgamalier@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamaliermatheus4@gmail.com)
 
 </div>
 
