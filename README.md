@@ -39,7 +39,8 @@ Jogo da velha 3D.
 
 ## 📬 Me encontre em:
 
-[![LinkedIn](https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356)
+[Meu LinkedIn](https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356)
+
 
 ---
 
