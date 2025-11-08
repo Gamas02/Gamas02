@@ -33,20 +33,12 @@ Tenho foco em escrever **código limpo, eficiente e escalável**, sempre buscand
 ## 🚀 Projetos em Destaque
 
 ### 💼 [Projeto Planilhas](https://github.com/Gamas02/projeto-planilhas)
-Sistema para atualização e visualização dinâmica de planilhas em CSV.  
+Aplicação web para **atualização, leitura e visualização de planilhas CSV**, com foco em interatividade e eficiência no gerenciamento de dados.  
 > Tecnologias: **JavaScript**, **HTML**, **CSS**
 
 ### 🎮 [Jogo da Velha 3D](https://github.com/Gamas02/jogo-da-velha-3d)
-Versão 3D interativa do clássico jogo da velha.  
+Versão **tridimensional** e interativa do clássico jogo da velha, desenvolvida com foco em **design visual** e **lógica de jogo**.  
 > Tecnologias: **Three.js**, **JavaScript**
-
-### ☕ [Projeto de Aplicação em Java](#)
-Aplicação desenvolvida para estudos de **POO**, **herança**, **polimorfismo** e **coleções**.  
-> Tecnologias: **Java**, **Swing**, **MySQL**
-
-### 🧠 [Automação com Python](#)
-Scripts e projetos voltados para automação de tarefas e análise de dados.  
-> Tecnologias: **Python**, **Pandas**, **Requests**
 
 ---
 
