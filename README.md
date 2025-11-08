@@ -39,7 +39,7 @@ Jogo da velha 3D.
 
 ## 📬 Me encontre em:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusHenriqueGamalier)
+[![LinkedIn](https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356)
 
 ---
 
