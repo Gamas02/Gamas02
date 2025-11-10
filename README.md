@@ -1,5 +1,3 @@
-**🕓 ÚLTIMA ATUALIZAÇÃO:** AGORA  
-
 # 👋 Olá, sou o Matheus Henrique Gamalier
 
 ---
