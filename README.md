@@ -35,7 +35,7 @@ Versão tridimensional moderna do clássico jogo, com visual imersivo e lógica 
 
 ---
 
-## 📊 Estatísticas (versão estável – Dark Roxo)
+## 📊 Estatísticas
 
 > *Essas SEMPRE funcionam, nunca quebram.*
 
