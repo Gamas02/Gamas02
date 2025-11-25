@@ -3,7 +3,7 @@
 
 <p align="center">
 
-# 👋 Olá, sou o Matheus Henrique Gamalier
+# 👋 Olá, sou o Matheus
 
 ---
 
