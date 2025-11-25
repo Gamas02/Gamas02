@@ -1,13 +1,18 @@
+<!-- Banner Personalizado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,18,15,30&height=220&section=header&text=Matheus%20Henrique%20Gamalier&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+
+<p align="center">
+
 # 👋 Olá, sou o Matheus Henrique Gamalier
 
 ---
 
 ## 💡 Sobre Mim
 
-Sou um **Desenvolvedor de Software** apaixonado por transformar ideias em soluções reais.  
-Atuo principalmente em **Frontend**, **Backend** e **Java**, explorando também **Python** para automações, análise de dados e **Machine Learning**.  
+Sou um **Desenvolvedor de Software** focado em criar soluções modernas e eficientes.  
+Trabalho com **Frontend**, **Backend**, **Java** e também **Python** para automações, análise de dados e Machine Learning.  
 
-Tenho foco em escrever **código limpo, eficiente e escalável**, sempre buscando boas práticas, arquitetura sólida e aprendizado contínuo.
+Apaixonado por **código limpo**, **arquitetura bem estruturada** e boas práticas de desenvolvimento.
 
 ---
 
@@ -31,11 +36,11 @@ Tenho foco em escrever **código limpo, eficiente e escalável**, sempre buscand
 ## 🚀 Projetos em Destaque
 
 ### 💼 [Projeto Planilhas](https://github.com/Gamas02/projeto-planilhas)
-Aplicação web para **atualização, leitura e visualização de planilhas CSV**, com foco em interatividade e eficiência no gerenciamento de dados.  
+Aplicação web moderna para **leitura, atualização e visualização de arquivos CSV**, com foco em **interatividade**, **velocidade** e **design clean**.  
 > Tecnologias: **JavaScript**, **HTML**, **CSS**
 
 ### 🎮 [Jogo da Velha 3D](https://github.com/Gamas02/jogo-da-velha-3d)
-Versão **tridimensional** e interativa do clássico jogo da velha, desenvolvida com foco em **design visual** e **lógica de jogo**.  
+Uma versão **3D** do clássico jogo da velha utilizando **Three.js**, trazendo uma experiência visual diferenciada e lógica de jogo completa.  
 > Tecnologias: **Three.js**, **JavaScript**
 
 ---
@@ -63,4 +68,4 @@ Versão **tridimensional** e interativa do clássico jogo da velha, desenvolvida
 
 ---
 
-⭐ *Feito com dedicação por **Matheus Henrique Gamalier***
+⭐ *Criado com dedicação por **Matheus Henrique Gamalier***  
