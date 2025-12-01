@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub!
 
 **Desenvolvedor de Software** apaixonado por construir sistemas modernos, escaláveis e bem estruturados.  
 Trabalho com **Java**, **Python**, **JavaScript**, **Frontend**, **Backend** e automações inteligentes.
@@ -37,7 +37,6 @@ Versão tridimensional moderna do clássico jogo, com visual imersivo e lógica 
 
 ## 📊 Estatísticas
 
-> *Essas SEMPRE funcionam, nunca quebram.*
 
 ### ⭐ Interação
 
