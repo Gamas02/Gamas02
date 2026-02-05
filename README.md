@@ -9,7 +9,7 @@
 **Desenvolvedor de Software** apaixonado por construir sistemas modernos, escaláveis e bem estruturados.  
 Trabalho com **Java**, **Python**, **JavaScript**, **Frontend**, **Backend** e automações inteligentes.
 
-💜 Foco em: **código limpo**, **boas práticas**, **design elegante** e **evolução constante**.
+Foco em: **código limpo**, **boas práticas**, **design elegante** e **evolução constante**.
 
 ---
 
@@ -43,8 +43,6 @@ Versão tridimensional moderna do clássico jogo, com visual imersivo e lógica 
 <img src="https://img.shields.io/github/followers/Gamas02?style=for-the-badge&logo=github&color=7b1fa2" />
 <img src="https://img.shields.io/github/stars/Gamas02?style=for-the-badge&logo=github&color=6a1b9a" />
 
-### 🧠 Linguagem Mais Usada
-<img src="https://img.shields.io/github/languages/top/Gamas02?style=for-the-badge&color=5e35b1" />
 
 ### 🔥 Atividade
 <img src="https://img.shields.io/github/last-commit/Gamas02/Gamas02?style=for-the-badge&logo=git&color=4a148c" />
@@ -55,14 +53,6 @@ Versão tridimensional moderna do clássico jogo, com visual imersivo e lógica 
 
 <a href="https://www.linkedin.com/in/matheus-henrique-gamalier-a78376356">
   <img src="https://img.shields.io/badge/LinkedIn-6a1b9a?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Gamas02">
-  <img src="https://img.shields.io/badge/GitHub-4a148c?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:gamaliermatheus4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7b1fa2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
