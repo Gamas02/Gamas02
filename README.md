@@ -28,13 +28,6 @@ Aplicação web para leitura, atualização e visualização de planilhas CSV de
 
 ---
 
-### 🎮 Jogo da Velha 3D
-Versão tridimensional moderna do clássico jogo, com visual imersivo e lógica sólida.  
-🔗 **GitHub:** https://github.com/Gamas02/jogo-da-velha-3d  
-🛠️ *Three.js — JavaScript*
-
----
-
 ## 📊 Estatísticas
 
 
